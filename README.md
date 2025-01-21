@@ -2,11 +2,11 @@
 
 Environment Setup for CALTEXT Code
 To run the CALTEXT code, the following dependencies and versions are required:
- Python: Version 3.8 or higher (python –version)
- TensorFlow: Version 2.17.0 (pip install tensorflow==2.17.0)
- Matplotlib: Version 3.4.0 or higher (pip install matplotlib==3.4.0)
- Scikit-Image: Version 0.18.0 or higher (pip install scikit-image==0.18.0)
- NumPy: Version 1.20.0 or higher (pip install numpy==1.20.0)
+   Python: Version 3.8 or higher (python –version)
+   TensorFlow: Version 2.17.0 (pip install tensorflow==2.17.0)
+   Matplotlib: Version 3.4.0 or higher (pip install matplotlib==3.4.0)
+   Scikit-Image: Version 0.18.0 or higher (pip install scikit-image==0.18.0)
+   NumPy: Version 1.20.0 or higher (pip install numpy==1.20.0)
 
 Folder Structure for CALTEXT Code
 
